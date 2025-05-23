@@ -5,7 +5,7 @@
 MediaPipe와 FastAPI로 얼굴을 등록/인식하며, React와 WebRTC로 실시간 카메라 스트리밍을 제공하는 웹 서비스. ngrok으로 외부 접근.
 
 ## 설치
-1. Python 3.11 이상.
+1. Python 3.8 이상.
 2. 종속성:
 - fastapi: 백엔드 API 서버.
 - uvicorn: FastAPI 실행용 ASGI 서버.
